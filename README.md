@@ -1,4 +1,26 @@
 # Rida
 Rida's first git repository
- git config --global user.name "Rida-123456"
-git config --global user.email rida.mujawar@gmail.com 
+<!Name :Rida Mujawar
+  Enrollment no:2406128
+Practical no💯>
+<!DOCTYPE html>
+<html>
+<head>
+<title> Web Page in HTML </title>
+<style>
+div {
+border: 2px solid black;
+padding: 10px;
+margin: 10px;
+}
+</style>
+</head>
+<body>
+ <div>
+<h1> Welcome to My Web page <h1>
+</h1>div>
+<hr>
+<p> This is a paragraph edited from git hub.</p>
+ <hr>
+</body>
+</html>
