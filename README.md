@@ -6,13 +6,10 @@ Practical no-11>
 <!DOCTYPE html>
 <html>
 <head>
-
 <body>
- <div>
-<h1> Welcome to My Web page <h1>
-</h1>
+<h1> Welcome to My Web page</h1>
 <hr>
-<p> This is a paragraph edited from git hub.</p>
+<p> This is a paragraph edited from VS Code.</p>
  <hr>
 </body>
 </html>
