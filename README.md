@@ -6,15 +6,7 @@ Practical no-11>
 <!DOCTYPE html>
 <html>
 <head>
-<title> Web Page in HTML </title>
-<style>
-div {
-border: 2px solid black;
-padding: 10px;
-margin: 10px;
-}
-</style>
-</head>
+
 <body>
  <div>
 <h1> Welcome to My Web page <h1>
