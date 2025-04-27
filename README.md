@@ -9,7 +9,7 @@ Practical no-11>
 <body>
 <h1> Welcome to My Web page</h1>
 <hr>
-<p> This is a paragraph edited from VS Code.NAZIYA</p>
+<p> This is a paragraph edited from VS Code.</p>
  <hr>
 </body>
 </html>
