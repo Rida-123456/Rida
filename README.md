@@ -11,5 +11,6 @@ Practical no-11>
 <hr>
 <p> This is a paragraph edited from VS Code.</p>
  <hr>
+ <h1> This is an updated paragraph.</h1>
 </body>
 </html>
