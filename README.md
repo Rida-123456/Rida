@@ -1,5 +1,4 @@
 # Rida
-Rida's first git repository
 <!Name :Rida Mujawar
   Enrollment no:2406128
 Practical no-11>
